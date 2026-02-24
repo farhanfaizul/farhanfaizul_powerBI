@@ -25,3 +25,8 @@ Paid power BI workshop by MicroTutor.
 • Alignment and layout techniques
 • Visual formatting
 • Custom tooltip design
+#
+### 2. Currency Exchange Rate Analysis
+Academic project to analyze Bank Negara data using power BI
+#### Skills Demonstrated:
+• Study the impact of COVID-19 on the national economy and financial sector, specifically focusing on the Italian currency (EUR) and the Australian currency (AUD). 
